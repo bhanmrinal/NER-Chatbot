@@ -1,19 +1,25 @@
 # NER-Chatbot
 
-Assignment: Typeform-like Chat Feature Replication with Multiple Chat Agents for Data
+### Assignment: 
+Typeform-like Chat Feature Replication with Multiple Chat Agents for Data
 Gathering and Extraction.
-Objective:
+
+### Objective:
 Inspired by Typeform's chat feature, especially Formless AI's user data collection approach, we
 aim to create an engaging, persuasive, and user-friendly conversational experience. Our goal is
 to encourage users to willingly share their information, recognizing that initial responses may not
 always be accurate. Users may also have questions or hesitations, and our chatbot will act as a
 friendly persuader, adept at gathering information naturally within the conversation.
-The bot should be proactive, not relying solely on user-initiated interactions. When users
+
+*1. The bot should be proactive, not relying solely on user-initiated interactions. When users
 hesitate to share details, it should smoothly transition into small talk or change topics
-temporarily. The bot should return to data collection when it gains user confidence, leveraging
-the rapport built during small talk.
-Additionally, the bot should efficiently extract and save collected data into a CSV file. For
-sharing the solution, options include creating a GitHub repository or providing a Colab file link.
+temporarily.*
+
+*2. The bot should return to data collection when it gains user confidence, leveraging
+the rapport built during small talk.*
+
+*3. Additionally, the bot should efficiently extract and save collected data into a CSV file. For
+sharing the solution, options include creating a GitHub repository or providing a Colab file link.*
 
 Steps:
 1. Develop a conversational interface similar to the one demonstrated by Formless AI.
